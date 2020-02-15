@@ -52,7 +52,7 @@ h1 {
 	font-size: 50px; text-align: center;
 }
 h2 {
-	font-size: 40px; 
+	font-size: 40px; text-align: center;
 }
 
 h3 {
@@ -79,8 +79,6 @@ th {
 td {
 		text-align: center;
 	}
-
-
 
 
 /* HTML5 display-role reset for older browsers */
@@ -283,8 +281,10 @@ a:focus {
     3D positioning along Z axis.
 */
 
-#title {
-    padding: 0;
+#imgcentrada img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #title .try {
