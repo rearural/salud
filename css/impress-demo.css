@@ -366,7 +366,9 @@ a:focus {
 #fondoIV {
 	background-color: green
 }
-
+#fondoV {
+	background-color: yellow
+}
 #tiny {
     width: 500px;
     text-align: center;
